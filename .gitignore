@@ -3,6 +3,8 @@ zetc
 # see https://github.com/expressjs/generator/issues/50
 #    https://github.com/github/gitignore/blob/master/Node.gitignore
 
+00proj-notes.md
+
 # Logs
 logs
 *.log
